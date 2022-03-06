@@ -1,6 +1,7 @@
 # ``termflow``
 ## Terminal Flowcharts
 
+This project does not work and has been abandoned. However I will except PRs for new development from other people.
 
 # Examples
 ```
